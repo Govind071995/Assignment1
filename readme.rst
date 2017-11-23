@@ -9,6 +9,7 @@ Database
 *******************
 
 Database name: fb_data
+Table name : post_details
 
 **************************
 Create a Table to store post data
