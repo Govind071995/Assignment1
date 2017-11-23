@@ -8,7 +8,8 @@ Application using codeigniter REST framework. Basically, you will use Facebook G
 Database
 *******************
 
-Database name: fb_data
+Database name: fb_data,
+
 Table name : post_details
 
 **************************
