@@ -1,5 +1,5 @@
 ###################
-Assignment
+What is it?
 ###################
 
 Application using codeigniter REST framework. Basically, you will use Facebook Graph API to fetch a page’s last month’s posts and store it into a table and then perform Read, Update and Delete operation on the data stored.
